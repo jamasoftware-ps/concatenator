@@ -54,7 +54,7 @@ and store the result
 2) Enter the following command into your terminal (Note that the script accepts one parameter and that is the path to
 the config file created above):  
    ```bash 
-   python harm-severity-updater.py config.ini
+   python concatenator.py config.ini
    ```
 
 ## Output
